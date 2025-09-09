@@ -2,7 +2,7 @@ SELECT * FROM employee;
 SELECT * FROM department;
 SELECT * FROM manager;
 SELECT * FROM project; 
-  
+SELECT * FROM json;  
 -- fetch the employee name and dept name they belong to
 
 SELECT  e.emp_name , d.dept_name
